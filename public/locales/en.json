@@ -1,4 +1,15 @@
 {
   "Flowbite React": "",
-  "Vite": ""
+  "Vite": "",
+  "sidebar": {
+    "ariaLabel": "Default sidebar example",
+    "dashboard": "Dashboard",
+    "pro": "Pro",
+    "kanban": "Kanban",
+    "inbox": "Inbox",
+    "users": "Users",
+    "products": "Products",
+    "signIn": "Sign In",
+    "signUp": "Sign Up"
+  }
 }

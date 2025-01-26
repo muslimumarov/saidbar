@@ -1,4 +1,15 @@
 {
   "Flowbite React": "Flowbite React",
-  "Vite": "Vite"
+  "Vite": "Vite",
+  "sidebar": {
+    "ariaLabel": "Standart yon panel misoli",
+    "dashboard": "Boshqaruv paneli",
+    "pro": "Pro",
+    "kanban": "Kanban",
+    "inbox": "Xabarlar",
+    "users": "Foydalanuvchilar",
+    "products": "Mahsulotlar",
+    "signIn": "Kirish",
+    "signUp": "Ro'yxatdan o'tish"
+  }
 }
