@@ -3,13 +3,12 @@
   "Vite": "",
   "sidebar": {
     "ariaLabel": "Default sidebar example",
-    "dashboard": "Dashboard",
+    "dashboard": "Yangiliklar",
     "pro": "Pro",
-    "kanban": "Kanban",
-    "inbox": "Inbox",
-    "users": "Users",
-    "products": "Products",
-    "signIn": "Sign In",
-    "signUp": "Sign Up"
+    "kanban": "Maqolalar",
+    "inbox": "Xizmatlar",
+    "users": "Tavsiyalar",
+    "products": "Hodisa haqida xabarlar",
+    "signIn": "Shartnoma va hujjatlar"
   }
 }
